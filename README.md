@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<!--👋 Hi, I'm Kartik Tiwari
+👋 Hi, I'm Kartik Tiwari
 
 🎓 BCA Student | Python Developer | Machine Learning Learner  
 📍 Ghaziabad, India  
@@ -50,6 +49,3 @@
 
 ### 📫 Connect With Me
 - Email: kartiktiwaridev7@gmail.com
-
-*
--->
