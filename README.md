@@ -49,3 +49,4 @@
 
 ### 📫 Connect With Me
 - Email: kartiktiwaridev7@gmail.com
+- linkdin : https://www.linkedin.com/in/kartik-tiwari-8b2bb5353/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BRqjDB2tES6GqCfMo7SFfrQ%3D%3D
