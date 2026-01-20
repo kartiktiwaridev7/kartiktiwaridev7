@@ -1,3 +1,12 @@
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi,+I'm+Kartik+Tiwari;Python+Developer;Machine+Learning+Learner" 
+    alt="Typing SVG"
+  />
+</p>
+
+
+
 ## Hi there 👋
 👋 Hi, I'm Kartik Tiwari
 
