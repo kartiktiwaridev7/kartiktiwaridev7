@@ -5,7 +5,7 @@
   />
 </p>
 
-## 👋 Hi there, I'm Kartik Tiwari
+## 👋 Hi there, I'm Kartik
 
 🎓 Final Year BCA Student | 💻 Frontend Developer | 🤖 Machine Learning Enthusiast  
 📍 Ghaziabad, India  
@@ -13,35 +13,48 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final year BCA student with a strong passion for data-driven technologies and web development.
-- 🎯 Currently taking on the **#100DaysOfLearning** challenge to master new tech daily.
+- 🎓 Final year BCA student bridging the gap between data-driven technologies and interactive web experiences.
 - 🤖 Diving deep into Machine Learning concepts, data preprocessing, and visualization.
-- 💻 Building responsive and interactive frontend projects.
-- 📚 When I'm not coding, I'm reading fantasy novels, focusing on self-growth, or practicing calisthenics.
-- 📈 I believe in consistency, discipline, and continuous improvement.
+- 💻 Building responsive frontend projects using modern web standards.
+- 🌍 Actively participating in local tech communities and dialogues around AI and workflow automation.
+- 📚 When I'm not coding, you'll find me reading fantasy novels like *Fourth Wing*, leveling up my calisthenics routine, or focusing on continuous self-growth.
+
+---
+
+### 🎯 Current Learning Goals
+
+**💻 50-Day Frontend Development Streak**
+<img src="https://geps.dev/progress/1?max=50&label=Day%201/50&barColor=E34F26" alt="Frontend Progress" />
+
+**🤖 100-Day Machine Learning Streak**
+<img src="https://geps.dev/progress/1?max=100&label=Day%201/100&barColor=3776AB" alt="ML Progress" />
+
+*(Currently dominating the #100DaysOfLearning challenge!)*
 
 ---
 
 ### 🛠 Tech Stack
 
-**Data Science & Machine Learning**
-- Python
-- NumPy | Pandas | Matplotlib | Scikit-learn 
+**Data Science & Machine Learning** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 
-**Frontend Web Development**
-- HTML5 | CSS3 | JavaScript 
+**Frontend Web Development** <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-**Other Languages & Tools**
-- C | C++
-- Git & GitHub | VS Code
+**Tools & Other Languages** <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 
 ---
 
 ### 📌 Featured Repositories
-- 🔹 **Machine Learning & Data Analysis** (Exploring datasets and core ML practice)
-- 🔹 **Frontend Development** (HTML, CSS, and JS web projects)
-- 🔹 **Python Projects** (Core Python practice & mini-projects)
-- 🔹 **Academic Work** (Final year BCA projects)
+- 🔹 **Machine Learning & Data Analysis** - Exploring datasets and core ML practice.
+- 🔹 **Frontend Development** - HTML, CSS, and JS web projects.
+- 🔹 **Python Projects** - Core Python practice & mini-projects.
+- 🔹 **Academic Work** - Final year BCA projects.
 
 ---
 
@@ -61,8 +74,5 @@
   </a>
   <a href="mailto:kartiktiwaridev7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/kartiktiwaridev7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
