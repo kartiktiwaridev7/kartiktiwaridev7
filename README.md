@@ -23,14 +23,15 @@
 
 ### 🎯 Current Learning Goals
 
-**💻 50-Day Frontend Development Streak**
-<img src="https://geps.dev/progress/1?max=50&label=Day%201/50&barColor=E34F26" alt="Frontend Progress" />
+**💻 50-Day Frontend Development Streak** <br>
+<img src="https://img.shields.io/badge/Status-Day_1_of_50-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Streak" /> <br>
+`██░░░░░░░░░░░░░░░░░░ 2%`
 
-**🤖 100-Day Machine Learning Streak**
-<img src="https://geps.dev/progress/1?max=100&label=Day%201/100&barColor=3776AB" alt="ML Progress" />
+**🤖 100-Day Machine Learning Streak** <br>
+<img src="https://img.shields.io/badge/Status-Day_1_of_100-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="ML Streak" /> <br>
+`█░░░░░░░░░░░░░░░░░░░ 1%`
 
 *(Currently dominating the #100DaysOfLearning challenge!)*
-
 ---
 
 ### 🛠 Tech Stack
