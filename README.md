@@ -50,15 +50,11 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kartiktiwaridev7&theme=radical&no-frame=true&row=1&column=6" alt="Kartik's Trophies" />
-</p>
-
 ### 📊 GitHub Activity & Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartiktiwaridev7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Kartik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktiwaridev7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartiktiwaridev7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=36BCF7" alt="Kartik's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktiwaridev7&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" width="48%" />
 </p>
 
 ---
