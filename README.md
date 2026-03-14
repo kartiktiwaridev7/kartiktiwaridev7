@@ -5,7 +5,7 @@
   />
 </p>
 
-## 👋 Hi there, I'm Kartik
+## 👋 Hi there, I'm Kartik Tiwari
 
 🎓 Final Year BCA Student | 💻 Frontend Developer | 🤖 Machine Learning Enthusiast  
 📍 Ghaziabad, India  
@@ -14,38 +14,29 @@
 
 ### 🚀 About Me
 - 🎓 Final year BCA student bridging the gap between data-driven technologies and interactive web experiences.
+- 🎯 Currently taking on the **#100DaysOfLearning** challenge to master new tech daily.
 - 🤖 Diving deep into Machine Learning concepts, data preprocessing, and visualization.
-- 💻 Building responsive frontend projects using modern web standards.
+- 💻 Building responsive frontend projects using HTML, CSS, and modern web standards.
 - 🌍 Actively participating in local tech communities and dialogues around AI and workflow automation.
 - 📚 When I'm not coding, you'll find me reading fantasy novels like *Fourth Wing*, leveling up my calisthenics routine, or focusing on continuous self-growth.
 
 ---
 
-### 🎯 Current Learning Goals
-
-**💻 50-Day Frontend Development Streak** <br>
-<img src="https://img.shields.io/badge/Status-Day_1_of_50-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Frontend Streak" /> <br>
-`██░░░░░░░░░░░░░░░░░░ 2%`
-
-**🤖 100-Day Machine Learning Streak** <br>
-<img src="https://img.shields.io/badge/Status-Day_1_of_100-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="ML Streak" /> <br>
-`█░░░░░░░░░░░░░░░░░░░ 1%`
-
-*(Currently dominating the #100DaysOfLearning challenge!)*
----
-
 ### 🛠 Tech Stack
 
-**Data Science & Machine Learning** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+**Data Science & Machine Learning** <br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 
-**Frontend Web Development** <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+**Frontend Web Development** <br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
-**Tools & Other Languages** <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+**Tools & Other Languages** <br>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 
@@ -59,11 +50,15 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kartiktiwaridev7&theme=radical&no-frame=true&row=1&column=6" alt="Kartik's Trophies" />
+</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartiktiwaridev7&show_icons=true&theme=radical" alt="Kartik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktiwaridev7&layout=compact&theme=radical" alt="Top Languages" />
+### 📊 GitHub Activity & Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartiktiwaridev7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Kartik's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktiwaridev7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
