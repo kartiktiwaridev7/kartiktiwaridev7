@@ -66,60 +66,54 @@
 ---
 
 ### 📌 Featured Repositories
+### 📌 Featured Repositories
 
-<div align="center">
-<a href="https://github.com/kartiktiwaridev7?tab=repositories">
+<p align="center">
 <table>
 <tr>
-<td width="50%" align="center">
-
-**🤖 ML & Data Analysis**  
-Exploring datasets and core ML practice  
-`Python` `Scikit-Learn` `Pandas`
-
+<td width="50%" valign="top" align="center">
+<h4>🤖 ML & Data Analysis</h4>
+<p>Exploring datasets and core ML practice</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 </td>
-<td width="50%" align="center">
-
-**🎨 Frontend Development**  
-Responsive HTML, CSS & JS web projects  
-`HTML` `CSS` `JavaScript`
-
+<td width="50%" valign="top" align="center">
+<h4>🎨 Frontend Development</h4>
+<p>Responsive HTML, CSS & JS web projects</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-
-**🐍 Python Projects**  
-Core Python practice & mini-projects  
-`Python`
-
+<td width="50%" valign="top" align="center">
+<h4>🐍 Python Projects</h4>
+<p>Core Python practice & mini-projects</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </td>
-<td width="50%" align="center">
-
-**🎓 Academic Work**  
-Final year BCA projects in action  
-`BCA` `Applied Learning`
-
+<td width="50%" valign="top" align="center">
+<h4>🎓 Academic Work</h4>
+<p>Final year BCA projects in action</p>
+<img src="https://img.shields.io/badge/BCA-36BCF7?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Applied_Learning-1D9E75?style=flat-square&logoColor=white"/>
 </td>
 </tr>
 </table>
-</a>
-</div>
+</p>
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kartiktiwaridev7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=36BCF7&icon_color=36BCF7" alt="Kartik's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktiwaridev7&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" width="48%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kartiktiwaridev7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0d1117" alt="Kartik's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktiwaridev7&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kartiktiwaridev7&theme=tokyonight&hide_border=true&stroke=36BCF7&ring=36BCF7&fire=F7931E&currStreakLabel=36BCF7" alt="GitHub Streak" width="60%" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kartiktiwaridev7&theme=tokyonight&hide_border=true&ring=36BCF7&fire=F7931E&currStreakLabel=36BCF7&sideLabels=36BCF7" alt="GitHub Streak" width="60%" />
+</p>
 
 ---
 
@@ -136,6 +130,6 @@ Final year BCA projects in action
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kartiktiwaridev7&color=36BCF7&style=flat-square&label=Profile+Views" alt="profile views" />
-</div>
+</p>
