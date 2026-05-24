@@ -66,7 +66,6 @@
 ---
 
 ### 📌 Featured Repositories
-### 📌 Featured Repositories
 
 <p align="center">
 <table>
