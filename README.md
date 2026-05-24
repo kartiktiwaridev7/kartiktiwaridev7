@@ -30,9 +30,7 @@
 
 </td>
 <td width="50%">
-
-📚 Reading *Fourth Wing* when not coding  
-🏋️ Leveling up calisthenics  
+  
 🔗 Always connecting dots between data & design  
 🌱 Committed to continuous self-growth  
 
