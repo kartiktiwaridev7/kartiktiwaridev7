@@ -21,8 +21,8 @@
 
 | | |
 |---|---|
-| 🧠 **Learning** ML, data preprocessing & visualization | 📚 Reading *Fourth Wing* when not coding |
-| 💻 **Building** responsive frontends with HTML, CSS & JS | 🏋️ Leveling up calisthenics |
+| 🧠 **Learning** ML, data preprocessing & visualization |
+| 💻 **Building** responsive frontends with HTML, CSS & JS | 
 | 🎯 **On a** [#100DaysOfLearning](https://github.com/kartiktiwaridev7) streak | 🔗 Connecting dots between data & design |
 | 🌍 **Engaged** in local tech & AI/automation communities | 🌱 Committed to continuous self-growth |
 
