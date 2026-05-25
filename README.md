@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi,+I'm+Kartik+Tiwari+%F0%9F%91%8B;Frontend+Developer+%7C+ML+Learner;Building+at+the+intersection+of+Data+%26+Web" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Kartik+Tiwari+%F0%9F%91%8B;Frontend+Dev+%7C+ML+Learner;Data+%26+Web+Explorer" alt="Typing SVG" />
 
 <br/>
 
-![](https://img.shields.io/badge/Frontend_Developer-36BCF7?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/ML_Enthusiast-7F77DD?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/BCA_Final_Year-1D9E75?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/📍_Ghaziabad,_India-gray?style=flat-square)
+![](https://img.shields.io/badge/Frontend_Developer-36BCF7?style=flat-square)
+![](https://img.shields.io/badge/ML_Enthusiast-7F77DD?style=flat-square)
+![](https://img.shields.io/badge/BCA_Final_Year-1D9E75?style=flat-square)
+![](https://img.shields.io/badge/📍_Ghaziabad_India-555?style=flat-square)
 
 </div>
 
@@ -19,24 +19,12 @@
 
 ### 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
-
-🧠 **Learning** ML concepts, data preprocessing & visualization  
-💻 **Building** responsive frontends with HTML, CSS & JS  
-🎯 **On a** [#100DaysOfLearning](https://github.com/kartiktiwaridev7) streak  
-🌍 **Engaged** in local tech & AI/automation communities  
-
-</td>
-<td width="50%">
-  
-🔗 Always connecting dots between data & design  
-🌱 Committed to continuous self-growth  
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| 🧠 **Learning** ML, data preprocessing & visualization | 📚 Reading *Fourth Wing* when not coding |
+| 💻 **Building** responsive frontends with HTML, CSS & JS | 🏋️ Leveling up calisthenics |
+| 🎯 **On a** [#100DaysOfLearning](https://github.com/kartiktiwaridev7) streak | 🔗 Connecting dots between data & design |
+| 🌍 **Engaged** in local tech & AI/automation communities | 🌱 Committed to continuous self-growth |
 
 ---
 
@@ -92,8 +80,8 @@
 <td width="50%" valign="top" align="center">
 <h4>🎓 Academic Work</h4>
 <p>Final year BCA projects in action</p>
-<img src="https://img.shields.io/badge/BCA-36BCF7?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Applied_Learning-1D9E75?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/BCA-36BCF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Applied_Learning-1D9E75?style=flat-square"/>
 </td>
 </tr>
 </table>
@@ -104,12 +92,12 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartiktiwaridev7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=36BCF7&icon_color=36BCF7" alt="Kartik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktiwaridev7&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kartiktiwaridev7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=36BCF7&icon_color=36BCF7" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktiwaridev7&layout=compact&theme=tokyonight&hide_border=true&title_color=36BCF7" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kartiktiwaridev7&theme=tokyonight&hide_border=true&ring=36BCF7&fire=F7931E&currStreakLabel=36BCF7&sideLabels=36BCF7" alt="GitHub Streak" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=kartiktiwaridev7&theme=tokyonight&hide_border=true&ring=36BCF7&fire=F7931E&currStreakLabel=36BCF7&sideLabels=36BCF7" width="60%" />
 </p>
 
 ---
@@ -118,15 +106,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kartik-tiwari-8b2bb5353/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kartiktiwaridev7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kartiktiwaridev7&color=36BCF7&style=flat-square&label=Profile+Views" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kartiktiwaridev7&color=36BCF7&style=flat-square&label=Profile+Views" />
 </p>
