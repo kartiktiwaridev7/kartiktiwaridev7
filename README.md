@@ -107,25 +107,11 @@ me = KartikTiwari()
 
 ---
 
-
-## 🏆 Achievements
-
-<div align="center">
-
-![](https://img.shields.io/badge/BCA_Final_Year-Ghaziabad-36BCF7?style=for-the-badge&logo=graduation-cap)
-![](https://img.shields.io/badge/100_Days_of_Learning-🔥_Active-F7931E?style=for-the-badge)
-![](https://img.shields.io/badge/Open_Source-Contributor-1D9E75?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/ML_Projects-In_Progress-7F77DD?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/Hacktoberfest-Participant-FF6F00?style=for-the-badge&logo=hacktoberfest&logoColor=white)
-
-</div>
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartiktiwaridev7&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartiktiwaridev7&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true&area_color=36BCF7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
