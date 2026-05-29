@@ -111,21 +111,17 @@ me = KartikTiwari()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kartiktiwaridev7&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=kartiktiwaridev7&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 🐍 My Contributions
+## 📈 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/output/github-snake.svg" />
-</picture>
+[![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartiktiwaridev7&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
