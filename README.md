@@ -107,14 +107,18 @@ me = KartikTiwari()
 
 ---
 
-## 🏆 GitHub Trophies
+
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kartiktiwaridev7&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://img.shields.io/badge/BCA_Final_Year-Ghaziabad-36BCF7?style=for-the-badge&logo=graduation-cap)
+![](https://img.shields.io/badge/100_Days_of_Learning-🔥_Active-F7931E?style=for-the-badge)
+![](https://img.shields.io/badge/Open_Source-Contributor-1D9E75?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/ML_Projects-In_Progress-7F77DD?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Hacktoberfest-Participant-FF6F00?style=for-the-badge&logo=hacktoberfest&logoColor=white)
 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
