@@ -109,8 +109,7 @@ me = KartikTiwari()
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kartiktiwaridev7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=36BCF7&icon_color=36BCF7&text_color=FFFFFF&bg_color=0D1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartiktiwaridev7&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=6C5CE7&currStreakLabel=36BCF7" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=kartiktiwaridev7&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=6C5CE7&currStreakLabel=36BCF7" />
 
 </div>
 
