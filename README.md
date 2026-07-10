@@ -16,7 +16,7 @@
 <!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-tiwari-8b2bb5353/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiktiwaridev7@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kartiktiwaridev7/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kartiktiwartiportfolio.netlify.app/)
 [![Profile Views](https://komarev.com/ghpvc/?username=kartiktiwaridev7&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kartiktiwaridev7)
 
 </div>
@@ -157,6 +157,7 @@ I'm always up for a conversation about **ML, frontend engineering, or a good boo
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-tiwari-8b2bb5353/)
 [![Gmail](https://img.shields.io/badge/-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiktiwaridev7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-View%20My%20Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kartiktiwartiportfolio.netlify.app/)
 
 ⭐ **Star my repos if you find them useful — let's build something amazing together!**
 
