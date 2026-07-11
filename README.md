@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED WAVING BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:36BCF7,70:6C5CE7,100:0D1117&height=200&section=header&text=Hey,%20I'm%20Kartik%20Tiwari&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20ML%20Learner%20%7C%20Data%20Explorer&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:36BCF7,70:6C5CE7,100:0D1117&height=220&section=header&text=Hey,%20I'm%20Kartik%20Tiwari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20ML%20Learner%20%7C%20Data%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Building+CardioCore+%E2%80%94+ML-powered+heart+risk+tool+%F0%9F%AB%80;Frontend+%2B+ML%2C+shipped+end-to-end+%F0%9F%9A%80;BCA+Final+Year+%7C+Learning+in+Public+%F0%9F%93%9A;Open+to+Collab+%26+Internships+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Clean%2C+Responsive+UIs+%F0%9F%92%BB;Currently+Exploring+Machine+Learning+%F0%9F%A4%96;Open+to+Collab+%26+Internships+%F0%9F%8C%B1" alt="Typing SVG" />
 
 <br/>
 
@@ -13,10 +13,7 @@
 
 <br/>
 
-<!-- SOCIAL BADGES -->
-[![ let's connect on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-tiwari-8b2bb5353/)
-[![Say Hello ](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiktiwaridev7@gmail.com)
-[![ My Portfolio](https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kartiktiwartiportfolio.netlify.app/)
+<!-- PROFILE VIEWS -->
 [![Profile Views](https://komarev.com/ghpvc/?username=kartiktiwaridev7&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kartiktiwaridev7)
 
 </div>
@@ -27,6 +24,7 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
 
+```python
 class KartikTiwari:
     def __init__(self):
         self.name      = "Kartik Tiwari"
@@ -48,21 +46,24 @@ class KartikTiwari:
         return "One commit at a time 🚀"
 
 me = KartikTiwari()
+```
+
 🧠 **Learning** — ML, data preprocessing & visualization
 💻 **Building** — responsive, real-world frontends with HTML, CSS & JS
 🌍 **Engaged** — in local tech & AI/automation communities
 🌱 **Committed** — to shipping something new, every single day
 
-*"Bridging data-driven technologies with interactive web experiences — one commit at a time."*
+> *"Bridging data-driven technologies with interactive web experiences — one commit at a time."*
 
 <details>
 <summary>🎯 <b>Career Goals & What I'm Learning Right Now</b></summary>
 <br>
 
-🔭 Currently building **CardioCore** — a full-stack ML-powered heart disease risk assessment tool
-📈 Deepening my skills in **data preprocessing, model evaluation & visualization**
-🎓 Wrapping up my **BCA**, aiming for a role at the intersection of **frontend engineering and applied ML**
-🤝 Looking to collaborate on open-source **data/ML** or **frontend** projects
+- 🔭 Currently building **CardioCore** — a full-stack ML-powered heart disease risk assessment tool
+- 📈 Deepening my skills in **data preprocessing, model evaluation & visualization**
+- 🎓 Wrapping up my **BCA**, aiming for a role at the intersection of **frontend engineering and applied ML**
+- 🤝 Looking to collaborate on open-source **data/ML** or **frontend** projects
+
 </details>
 
 <br clear="right"/>
@@ -126,6 +127,28 @@ me = KartikTiwari()
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/output/github-contribution-grid-snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+
+## 🫀 Project Spotlight — CardioCore
+
+<div align="center">
+
+### A full-stack, ML-powered heart disease risk assessment tool
+
+*From raw data to a live prediction API to a clinical-style UI — this is the project that best shows how I connect machine learning with real, usable frontend engineering.*
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br/>
+
+[![Backend Repo](https://img.shields.io/badge/View%20Backend%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7)](https://github.com/kartiktiwaridev7/CardioCore-Backend)
+[![Frontend Repo](https://img.shields.io/badge/View%20Frontend%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7)](https://github.com/kartiktiwaridev7/CardioCore-Frontend)
 
 </div>
 
