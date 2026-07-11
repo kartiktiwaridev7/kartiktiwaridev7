@@ -139,50 +139,81 @@ me = KartikTiwari()
 <td width="50%" valign="top" align="center">
 
 ### 🫀 [CardioCore Backend](https://github.com/kartiktiwaridev7/CardioCore-Backend)
+
 Real-time heart disease prediction API with ML
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+![Stars](https://img.shields.io/github/stars/kartiktiwaridev7/CardioCore-Backend?style=flat-square&color=36BCF7&label=%E2%AD%90)
+
+**[View Repository →](https://github.com/kartiktiwaridev7/CardioCore-Backend)**
+
 </td>
 <td width="50%" valign="top" align="center">
 
 ### 🌐 [CardioCore Frontend](https://github.com/kartiktiwaridev7/CardioCore-Frontend)
+
 Responsive clinical risk assessment UI
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+![Stars](https://img.shields.io/github/stars/kartiktiwaridev7/CardioCore-Frontend?style=flat-square&color=36BCF7&label=%E2%AD%90)
+
+**[View Repository →](https://github.com/kartiktiwaridev7/CardioCore-Frontend)**
+
 </td>
+</tr>
+<tr>
+<td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:36BCF7,100:0D1117&height=2&width=100%" width="100%"/></td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 
 ### 💼 [My Portfolio](https://github.com/kartiktiwaridev7/My-Portfolio-2)
+
 Personal developer portfolio site
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+![Stars](https://img.shields.io/github/stars/kartiktiwaridev7/My-Portfolio-2?style=flat-square&color=36BCF7&label=%E2%AD%90)
+
+**[View Repository →](https://github.com/kartiktiwaridev7/My-Portfolio-2)**
+
 </td>
 <td width="50%" valign="top" align="center">
 
 ### 🐍 [Python Projects](https://github.com/kartiktiwaridev7/Python-Project-s)
+
 Core Python practice & mini-projects
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+![Stars](https://img.shields.io/github/stars/kartiktiwaridev7/Python-Project-s?style=flat-square&color=36BCF7&label=%E2%AD%90)
+
+**[View Repository →](https://github.com/kartiktiwaridev7/Python-Project-s)**
+
 </td>
+</tr>
+<tr>
+<td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:36BCF7,100:0D1117&height=2&width=100%" width="100%"/></td>
 </tr>
 <tr>
 <td colspan="2" valign="top" align="center">
 
 ### 📊 [Internship Project](https://github.com/kartiktiwaridev7/Internship-Project)
+
 Data analysis & ML internship work
 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+![Stars](https://img.shields.io/github/stars/kartiktiwaridev7/Internship-Project?style=flat-square&color=36BCF7&label=%E2%AD%90)
+
+**[View Repository →](https://github.com/kartiktiwaridev7/Internship-Project)**
 
 </td>
 </tr>
