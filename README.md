@@ -156,13 +156,39 @@ me = KartikTiwari()
 
 <div align="center">
 
-| Project | Description | Tech |
-|:---|:---|:---:|
-| 🫀 **[CardioCore Backend](https://github.com/kartiktiwaridev7/CardioCore-Backend)** | Real-time heart disease prediction API with ML | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| 🌐 **[CardioCore Frontend](https://github.com/kartiktiwaridev7/CardioCore-Frontend)** | Responsive clinical risk assessment UI | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| 💼 **[My Portfolio](https://github.com/kartiktiwaridev7/My-Portfolio-2)** | Personal developer portfolio site | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| 🐍 **[Python Projects](https://github.com/kartiktiwaridev7/Python-Project-s)** | Core Python practice & mini-projects | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| 📊 **[Internship Project](https://github.com/kartiktiwaridev7/Internship-Project)** | Data analysis & ML internship work | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/kartiktiwaridev7/CardioCore-Backend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartiktiwaridev7&repo=CardioCore-Backend&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7&border_color=36BCF7&border_radius=10&hide_border=false" width="100%"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/kartiktiwaridev7/CardioCore-Frontend">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartiktiwaridev7&repo=CardioCore-Frontend&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7&border_color=36BCF7&border_radius=10&hide_border=false" width="100%"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/kartiktiwaridev7/My-Portfolio-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartiktiwaridev7&repo=My-Portfolio-2&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7&border_color=36BCF7&border_radius=10&hide_border=false" width="100%"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/kartiktiwaridev7/Python-Project-s">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartiktiwaridev7&repo=Python-Project-s&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7&border_color=36BCF7&border_radius=10&hide_border=false" width="100%"/>
+</a>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<a href="https://github.com/kartiktiwaridev7/Internship-Project">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartiktiwaridev7&repo=Internship-Project&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7&border_color=36BCF7&border_radius=10&hide_border=false" width="49%"/>
+</a>
+</td>
+</tr>
+</table>
 
 <sub>🔎 <a href="https://github.com/kartiktiwaridev7?tab=repositories">View all repositories →</a></sub>
 
