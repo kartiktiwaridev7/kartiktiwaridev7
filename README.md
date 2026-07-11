@@ -130,62 +130,60 @@ me = KartikTiwari()
 
 </div>
 
-## 🫀 Project Spotlight — CardioCore
-
-<div align="center">
-
-### A full-stack, ML-powered heart disease risk assessment tool
-
-*From raw data to a live prediction API to a clinical-style UI — this is the project that best shows how I connect machine learning with real, usable frontend engineering.*
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-<br/>
-
-[![Backend Repo](https://img.shields.io/badge/View%20Backend%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7)](https://github.com/kartiktiwaridev7/CardioCore-Backend)
-[![Frontend Repo](https://img.shields.io/badge/View%20Frontend%20Repo-0D1117?style=for-the-badge&logo=github&logoColor=36BCF7)](https://github.com/kartiktiwaridev7/CardioCore-Frontend)
-
-</div>
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
-<a href="https://github.com/kartiktiwaridev7/CardioCore-Backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartiktiwaridev7&repo=CardioCore-Backend&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7&border_color=36BCF7&border_radius=10&hide_border=false" width="100%"/>
-</a>
+<td width="50%" valign="top" align="center">
+
+### 🫀 [CardioCore Backend](https://github.com/kartiktiwaridev7/CardioCore-Backend)
+Real-time heart disease prediction API with ML
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
 </td>
-<td width="50%">
-<a href="https://github.com/kartiktiwaridev7/CardioCore-Frontend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartiktiwaridev7&repo=CardioCore-Frontend&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7&border_color=36BCF7&border_radius=10&hide_border=false" width="100%"/>
-</a>
+<td width="50%" valign="top" align="center">
+
+### 🌐 [CardioCore Frontend](https://github.com/kartiktiwaridev7/CardioCore-Frontend)
+Responsive clinical risk assessment UI
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
 </td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/kartiktiwaridev7/My-Portfolio-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartiktiwaridev7&repo=My-Portfolio-2&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7&border_color=36BCF7&border_radius=10&hide_border=false" width="100%"/>
-</a>
+<td width="50%" valign="top" align="center">
+
+### 💼 [My Portfolio](https://github.com/kartiktiwaridev7/My-Portfolio-2)
+Personal developer portfolio site
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
 </td>
-<td width="50%">
-<a href="https://github.com/kartiktiwaridev7/Python-Project-s">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartiktiwaridev7&repo=Python-Project-s&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7&border_color=36BCF7&border_radius=10&hide_border=false" width="100%"/>
-</a>
+<td width="50%" valign="top" align="center">
+
+### 🐍 [Python Projects](https://github.com/kartiktiwaridev7/Python-Project-s)
+Core Python practice & mini-projects
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
-<a href="https://github.com/kartiktiwaridev7/Internship-Project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kartiktiwaridev7&repo=Internship-Project&theme=tokyonight&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9&icon_color=36BCF7&border_color=36BCF7&border_radius=10&hide_border=false" width="49%"/>
-</a>
+<td colspan="2" valign="top" align="center">
+
+### 📊 [Internship Project](https://github.com/kartiktiwaridev7/Internship-Project)
+Data analysis & ML internship work
+
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
 </td>
 </tr>
 </table>
