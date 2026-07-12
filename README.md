@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/ascii-scan.svg">
+<img align="right" width="420" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/ascii-scan.svg">
 
 ```python
 class KartikTiwari:
