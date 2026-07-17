@@ -48,15 +48,22 @@ def lerp(a, b, t):
     return a + (b - a) * t
 
 
-def pixel_to_char_and_color(v, charset):
+def pixel_to_char_and_color(v, charset, solid_color=None):
     """v: brightness 0-255. Returns (char, css_color).
     Darker source pixels (subject/hair/clothing) map to denser characters
-    so the person reads clearly against the dark background. Color ramps
-    from dim gray (sparse) to bright white (dense) for a sense of depth.
+    so the person reads clearly against the dark background.
+
+    If solid_color is given, every glyph uses that one color (e.g. pure
+    white) — only the character density varies, not the color. Otherwise
+    falls back to the old gray-to-white gradient (sparse=dim, dense=bright).
     """
     inv = 255 - v
     idx = int((inv / 255) * (len(charset) - 1))
     ch = charset[idx]
+
+    if solid_color:
+        return ch, solid_color
+
     t = inv / 255
     g = int(lerp(90, 255, t))
     return ch, f"rgb({g},{g},{g})"
@@ -105,7 +112,9 @@ def build_svg(grid, cols, rows, args):
       text.ascii {{
         font-family: 'Courier New', ui-monospace, monospace;
         font-size: {font_size}px;
+        font-weight: 600;
         white-space: pre;
+        text-shadow: 0 0 3px rgba(255,255,255,0.25);
       }}
       .row {{
         opacity: 0;
@@ -113,7 +122,7 @@ def build_svg(grid, cols, rows, args):
       }}
       @keyframes revealRow {{
         0%   {{ opacity: 0; }}
-        4%   {{ opacity: 1; text-shadow: 0 0 2px rgba(255,255,255,0.35); }}
+        4%   {{ opacity: 1; text-shadow: 0 0 4px rgba(255,255,255,0.55); }}
         70%  {{ opacity: 1; }}
         88%  {{ opacity: 0.2; }}
         100% {{ opacity: 0; }}
@@ -200,7 +209,7 @@ def build_svg(grid, cols, rows, args):
     for r, row in enumerate(grid):
         y = y_off + (r + 1) * line_h
         delay = r * scan_delay_step
-        row_chars = [pixel_to_char_and_color(v, args.charset) for v in row]
+        row_chars = [pixel_to_char_and_color(v, args.charset, args.text_color) for v in row]
 
         tspans_list = []
         cur_color = None
@@ -269,6 +278,10 @@ def parse_args():
     p.add_argument("--bg", default="#0D1117", help="Background color")
     p.add_argument("--charset", default=DEFAULT_CHARSET,
                     help="Characters from sparse to dense (default: ' .:-=+*#%%@')")
+    p.add_argument("--text-color", default="#FFFFFF", dest="text_color",
+                    help="Solid color for every glyph (default: pure white, #FFFFFF)")
+    p.add_argument("--gradient", action="store_const", const=None, dest="text_color",
+                    help="Use the old dim-gray-to-white fade instead of solid white")
     p.add_argument("--title", default=None,
                     help="Override the full terminal title text")
     p.add_argument("--scan-duration", type=float, default=4.2, dest="scan_duration",
