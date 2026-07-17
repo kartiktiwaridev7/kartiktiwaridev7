@@ -1,0 +1,46 @@
+# .github/workflows/generate-ascii.yml
+#
+# Runs ascii_scan_generator.py for you and commits the real SVG output to
+# ascii-scan.svg — you never paste Python into the SVG file by hand.
+# Matches your repo layout: profile_source.png, ascii_scan_generator.py,
+# and ascii-scan.svg all live at the repo root.
+
+name: Generate ASCII scan SVG
+
+on:
+  push:
+    paths:
+      - "profile_source.png"
+      - "ascii_scan_generator.py"
+  workflow_dispatch:   # adds a manual "Run workflow" button under the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Build SVG
+        run: |
+          python3 ascii_scan_generator.py \
+            profile_source.png \
+            ascii-scan.svg \
+            --user kartiktiwari \
+            --cols 100
+
+      - name: Commit updated SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ascii-scan.svg
+          git diff --staged --quiet || git commit -m "chore: regenerate ascii-scan.svg"
+          git push
