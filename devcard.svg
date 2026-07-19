@@ -1,0 +1,301 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="Kartik Tiwari animated developer ID card">
+<title>kartiktiwari@github:~$ cat dev_identity.card</title>
+
+<style>
+  .bg { fill: #050709; }
+  .chrome { fill: #101418; }
+  .titleText {
+    font-family: 'Courier New', ui-monospace, monospace;
+    font-size: 11px;
+    fill: #8b949e;
+  }
+  text { font-family: 'Courier New', ui-monospace, monospace; }
+  .label {
+    font-size: 9px;
+    letter-spacing: 2px;
+    fill: #3f8fc4;
+    font-weight: 700;
+  }
+  .value {
+    font-size: 15px;
+    fill: #eaf6ff;
+    font-weight: 700;
+  }
+  .valueBig {
+    font-size: 21px;
+    fill: #ffffff;
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
+  .pill {
+    fill: none;
+    stroke: #36BCF7;
+    stroke-opacity: 0.55;
+  }
+  .pillText {
+    font-size: 10px;
+    fill: #a9e2ff;
+    font-weight: 700;
+    dominant-baseline: middle;
+  }
+  .divider { stroke: #1c2733; stroke-width: 1; }
+  .statusText { font-size: 12px; fill: #d7ecfa; }
+  .handleText { font-size: 11px; fill: #52697d; }
+  .hexShape {
+    fill: none;
+    stroke: #36BCF7;
+    stroke-width: 1.4;
+    animation: pulseGlow 3s ease-in-out infinite;
+  }
+  .hexRing {
+    fill: none;
+    stroke: #6fc4e8;
+    stroke-width: 1;
+    stroke-dasharray: 6 5;
+    stroke-opacity: 0.65;
+  }
+  .icon {
+    font-size: 20px;
+    fill: #7fd4ff;
+    font-weight: 700;
+    text-anchor: middle;
+  }
+  .idTag {
+    font-size: 8.5px;
+    fill: #4a7a99;
+    text-anchor: middle;
+    letter-spacing: 1px;
+  }
+  .orbitDot { fill: #ffffff; }
+  .statusDot {
+    fill: #3ddc84;
+    animation: blinkDot 1.6s ease-in-out infinite;
+  }
+  .cursor {
+    fill: #36BCF7;
+    animation: blinkCursor 1s steps(1) infinite;
+  }
+  .frame {
+    fill: none;
+    stroke: #36BCF7;
+    stroke-opacity: 0.5;
+    stroke-width: 1.4;
+    animation: pulseGlow 3s ease-in-out infinite;
+  }
+  .ambient {
+    fill: url(#ambient);
+    animation: breathe 4.5s ease-in-out infinite;
+  }
+  .scanBeam {
+    animation: sweepY 4.5s linear infinite;
+  }
+  .barSweep {
+    animation: sweepX 3.2s ease-in-out infinite;
+  }
+  .dot { opacity: 0.9; }
+
+  @keyframes pulseGlow {
+    0%, 100% { stroke-opacity: 0.35; }
+    50%      { stroke-opacity: 0.85; }
+  }
+  @keyframes blinkDot {
+    0%, 100% { opacity: 1; }
+    50%      { opacity: 0.25; }
+  }
+  @keyframes blinkCursor {
+    0%, 49%  { opacity: 1; }
+    50%,100% { opacity: 0; }
+  }
+  @keyframes breathe {
+    0%, 100% { opacity: 0.30; }
+    50%      { opacity: 0.60; }
+  }
+  @keyframes sweepY {
+    0%   { transform: translateY(-6px); opacity: 0; }
+    8%   { opacity: 0.9; }
+    92%  { opacity: 0.9; }
+    100% { transform: translateY(256px); opacity: 0; }
+  }
+  @keyframes sweepX {
+    0%   { transform: translateX(0px); }
+    50%  { transform: translateX(560px); }
+    100% { transform: translateX(0px); }
+  }
+</style>
+
+<defs>
+  <linearGradient id="beamGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#36BCF7" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#bdeeff" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#36BCF7" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="ambient" cx="18%" cy="55%" r="55%">
+    <stop offset="0%" stop-color="#1c6fa8" stop-opacity="0.55"/>
+    <stop offset="60%" stop-color="#0f2f47" stop-opacity="0.2"/>
+    <stop offset="100%" stop-color="#050709" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="barGlow" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#ffffff" stop-opacity="0.9"/>
+    <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+
+<rect class="bg" width="100%" height="100%" rx="16"/>
+<rect class="ambient" x="0" y="0" width="640" height="300" rx="16"/>
+
+<path class="chrome" d="M0,16 a16,16 0 0 1 16,-16 h608 a16,16 0 0 1 16,16 v18 h-640 z"/>
+<circle cx="18" cy="17" r="4.2" fill="#ff5f56"/>
+<circle cx="34" cy="17" r="4.2" fill="#ffbd2e"/>
+<circle cx="50" cy="17" r="4.2" fill="#27c93f"/>
+<text class="titleText" x="320.0" y="21" text-anchor="middle">kartiktiwari@github:~$ cat dev_identity.card</text>
+
+<!-- Hex ID chip (no photo, abstract identity glyph) -->
+<polygon class="hexShape" points="110.0,110.0 153.3,135.0 153.3,185.0 110.0,210.0 66.7,185.0 66.7,135.0"/>
+<circle class="hexRing" cx="110" cy="160" r="36">
+  <animateTransform attributeName="transform" type="rotate" from="0 110 160" to="360 110 160" dur="10s" repeatCount="indefinite"/>
+</circle>
+<g>
+  <circle class="orbitDot" cx="110" cy="104" r="3.2"/>
+  <animateTransform attributeName="transform" type="rotate" from="0 110 160" to="360 110 160" dur="4s" repeatCount="indefinite"/>
+</g>
+<text class="icon" x="110" y="162">&lt;/&gt;</text>
+<text class="idTag" x="110" y="182">KT&#8209;2026 · VERIFIED</text>
+
+<!-- Fields -->
+<text class="label" x="210" y="64">NAME</text>
+<text class="valueBig" x="210" y="86">KARTIK TIWARI</text>
+
+<text class="label" x="210" y="106">ROLE</text>
+<text class="value" x="210" y="124">FRONTEND DEVELOPER · ML LEARNER</text>
+
+<text class="label" x="210" y="144">BASE</text>
+<text class="value" x="210" y="162">GHAZIABAD, INDIA</text>
+
+<text class="label" x="210" y="182">STACK</text>
+<rect class="pill" x="210" y="188" width="64" height="18" rx="9"/>
+<text class="pillText" x="242.0" y="201" text-anchor="middle">PYTHON</text>
+<rect class="pill" x="284" y="188" width="96" height="18" rx="9"/>
+<text class="pillText" x="332.0" y="201" text-anchor="middle">JAVASCRIPT</text>
+<rect class="pill" x="390" y="188" width="74" height="18" rx="9"/>
+<text class="pillText" x="427.0" y="201" text-anchor="middle">FASTAPI</text>
+<rect class="pill" x="474" y="188" width="40" height="18" rx="9"/>
+<text class="pillText" x="494.0" y="201" text-anchor="middle">ML</text>
+
+<line class="divider" x1="24" y1="224" x2="616" y2="224"/>
+
+<circle class="statusDot" cx="32" cy="238" r="4.5"/>
+<text class="statusText" x="46" y="242">AVAILABLE &#8212; OPEN TO COLLAB &amp; INTERNSHIPS</text>
+<rect class="cursor" x="338" y="232" width="6" height="10"/>
+<text class="handleText" x="616" y="242" text-anchor="end">@kartiktiwaridev7</text>
+
+<!-- Barcode strip -->
+<rect x="24" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="28" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="32" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="38" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="42" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="50" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="54" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="60" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="64" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="69" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="75" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="80" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="85" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="90" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="95" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="99" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="106" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="113" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="119" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="127" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="133" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="143" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="149" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="153" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="158" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="165" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="169" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="174" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="180" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="186" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="192" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="196" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="203" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="207" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="211" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="216" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="222" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="228" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="235" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="243" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="250" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="256" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="265" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="270" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="279" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="285" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="291" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="296" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="302" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="308" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="316" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="323" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="333" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="339" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="349" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="355" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="362" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="368" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="375" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="381" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="389" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="393" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="401" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="410" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="415" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="420" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="426" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="432" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="440" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="445" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="451" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="457" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="463" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="469" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="475" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="482" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="487" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="495" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="499" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="506" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="516" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="520" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="524" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="529" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="533" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="538" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="548" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.5"/>
+<rect x="557" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="562" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="566" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="571" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="578" y="256" width="3" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="585" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.85"/>
+<rect x="589" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.4"/>
+<rect x="595" y="256" width="2" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="599" y="256" width="6" height="16" fill="#8fd0f0" fill-opacity="0.9"/>
+<rect x="607" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<rect x="614" y="256" width="4" height="16" fill="#8fd0f0" fill-opacity="0.6"/>
+<g class="barSweep">
+  <rect x="0" y="254" width="18" height="20" fill="url(#barGlow)"/>
+</g>
+
+<g class="scanBeam" transform="translate(0,34)">
+  <rect x="24" y="0" width="592" height="2" fill="#ffffff" opacity="0.85"/>
+  <rect x="24" y="-6" width="592" height="12" fill="url(#beamGrad)"/>
+</g>
+
+<rect class="frame" x="1" y="1" width="638" height="298" rx="16"/>
+</svg>
