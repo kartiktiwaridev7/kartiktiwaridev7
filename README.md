@@ -68,6 +68,12 @@ me = KartikTiwari()
 
 <br clear="right"/>
 
+<div align="center">
+
+<img width="640" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/devcard.svg" alt="Kartik Tiwari animated developer ID card">
+
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
