@@ -109,32 +109,21 @@ me = KartikTiwari()
 </div>
 
 ## 📊 GitHub Analytics
-
 <div align="center">
-
-<img width="49%" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/profile/stats.svg" />
-<img width="42%" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/profile/top-langs.svg" />
-
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=kartiktiwaridev7&show_icons=true&theme=dark&hide_border=true" />
+<img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=kartiktiwaridev7&layout=compact&theme=dark&hide_border=true" />
 <br/><br/>
-
-<img width="60%" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/profile/streak.svg" />
-
+<img width="60%" src="https://streak-stats.demolab.com/?user=kartiktiwaridev7&theme=dark&hide_border=true" />
 </div>
 
 ### 📈 Contribution Graph
-
 <div align="center">
-
 [![Kartik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kartiktiwaridev7&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true&area_color=36BCF7)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 </div>
 
 ### 🏆 Trophy Case
-
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/profile/trophy.svg" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=kartiktiwaridev7&theme=darkhub&no-bg=true" />
 </div>
 
 ### 🐍 Contribution Snake
