@@ -59,7 +59,7 @@ me = KartikTiwari()
 <summary>🎯 <b>Career Goals & What I'm Learning Right Now</b></summary>
 <br>
 
-- 🔭 Completed **CardioCore** — a full-stack ML-powered heart disease risk assessment tool
+- 🔭 learn and build M.L project and make the Bridge B/W M.L Models and Frontend Devlopment
 - 📈 Deepening my skills in **data preprocessing, model evaluation & visualization**
 - 🎓 Wrapping up my **BCA**, aiming for a role at the intersection of **frontend engineering and applied ML**
 - 🤝 Looking to collaborate on open-source **data/ML** or **frontend** projects
