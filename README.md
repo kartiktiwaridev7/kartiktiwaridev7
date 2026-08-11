@@ -133,7 +133,7 @@ me = KartikTiwari()
 
 </div>
 
-## 🚀 Featured Projects
+## 📌 Pinned Projects
 
 <div align="center">
 
@@ -141,9 +141,9 @@ me = KartikTiwari()
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 🫀 [CardioCore Backend](https://github.com/kartiktiwaridev7/CardioCore-Backend)
+### 🫀 [CardioCore-Backend](https://github.com/kartiktiwaridev7/CardioCore-Backend)
 
-Real-time heart disease prediction API with ML
+The FastAPI backend and Machine Learning API for CardioCore — handles real-time clinical heart disease predictions using a trained scikit-learn model and manages secure database connections via MySQL.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -156,9 +156,9 @@ Real-time heart disease prediction API with ML
 </td>
 <td width="50%" valign="top" align="center">
 
-### 🌐 [CardioCore Frontend](https://github.com/kartiktiwaridev7/CardioCore-Frontend)
+### 🌐 [CardioCore-Frontend](https://github.com/kartiktiwaridev7/CardioCore-Frontend)
 
-Responsive clinical risk assessment UI
+The decoupled, responsive frontend for CardioCore — a dynamic clinical risk assessment UI with a secure appointment booking system built in Vanilla JavaScript.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -176,9 +176,9 @@ Responsive clinical risk assessment UI
 <tr>
 <td width="50%" valign="top" align="center">
 
-### 💼 [My Portfolio](https://github.com/kartiktiwaridev7/My-Portfolio-2)
+### 💼 [My-Portfolio-2](https://github.com/kartiktiwaridev7/My-Portfolio-2)
 
-Personal developer portfolio site
+My personal developer portfolio featuring projects, technical skills, certifications, resume, and contact information — designed with a focus on clean UI and responsiveness.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -190,15 +190,17 @@ Personal developer portfolio site
 </td>
 <td width="50%" valign="top" align="center">
 
-### 🐍 [Python Projects](https://github.com/kartiktiwaridev7/Python-Project-s)
+### 🖼️ [Collage-Project](https://github.com/kartiktiwaridev7/Collage-Project)
 
-Core Python practice & mini-projects
+A collage project built with HTML, CSS and JavaScript — implemented as a student attendance management system.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![Stars](https://img.shields.io/github/stars/kartiktiwaridev7/Python-Project-s?style=flat-square&color=36BCF7&label=%E2%AD%90)
+![Stars](https://img.shields.io/github/stars/kartiktiwaridev7/Collage-Project?style=flat-square&color=36BCF7&label=%E2%AD%90)
 
-**[View Repository →](https://github.com/kartiktiwaridev7/Python-Project-s)**
+**[View Repository →](https://github.com/kartiktiwaridev7/Collage-Project)**
 
 </td>
 </tr>
@@ -206,17 +208,33 @@ Core Python practice & mini-projects
 <td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:36BCF7,100:0D1117&height=2&width=100%" width="100%"/></td>
 </tr>
 <tr>
-<td colspan="2" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
-### 📊 [Internship Project](https://github.com/kartiktiwaridev7/Internship-Project)
+### 📊 [Data-Sight](https://github.com/kartiktiwaridev7/Data-Sight)
 
-Data analysis & ML internship work
+Full-stack AI analytics engine — a highly responsive React/Vite frontend that streams datasets to a Python/FastAPI backend for real-time machine learning regression, dynamic data aggregation, and interactive visualization.
 
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-![Stars](https://img.shields.io/github/stars/kartiktiwaridev7/Internship-Project?style=flat-square&color=36BCF7&label=%E2%AD%90)
+![Stars](https://img.shields.io/github/stars/kartiktiwaridev7/Data-Sight?style=flat-square&color=36BCF7&label=%E2%AD%90)
 
-**[View Repository →](https://github.com/kartiktiwaridev7/Internship-Project)**
+**[View Repository →](https://github.com/kartiktiwaridev7/Data-Sight)**
+
+</td>
+<td width="50%" valign="top" align="center">
+
+### ⚙️ [Data-Sight-Backend](https://github.com/kartiktiwaridev7/Data-Sight-Backend)
+
+Python/FastAPI machine learning backend for the DataSight Analytics Dashboard — engineered to securely process large datasets, execute multi-variable regressions, and stream aggregated time-series insights.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+![Stars](https://img.shields.io/github/stars/kartiktiwaridev7/Data-Sight-Backend?style=flat-square&color=36BCF7&label=%E2%AD%90)
+
+**[View Repository →](https://github.com/kartiktiwaridev7/Data-Sight-Backend)**
 
 </td>
 </tr>
