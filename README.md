@@ -24,6 +24,16 @@
 
 <img align="right" width="420" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/ascii-scan.svg">
 
+**Currently building:** [Data-Sight](https://github.com/kartiktiwaridev7/Data-Sight) — a full-stack AI analytics engine
+<br/>
+**Currently learning:** Model evaluation, data preprocessing pipelines & advanced visualization
+
+<!-- Career goals moved up, expanded (was collapsed below the code block) -->
+- 🔭 Building the bridge between **ML models** and **frontend engineering**
+- 📈 Deepening skills in **data preprocessing, model evaluation & visualization**
+- 🎓 Wrapping up my **BCA**, aiming for a role at the intersection of frontend engineering and applied ML
+- 🤝 Open to collaborating on open-source **data/ML** or **frontend** projects
+
 ```python
 class KartikTiwari:
     def __init__(self):
@@ -32,39 +42,16 @@ class KartikTiwari:
         self.education = "BCA Final Year"
         self.role      = "Frontend Dev + ML Learner"
 
-    def current_focus(self):
-        return [
-            "📊 Machine Learning & Data Analytics",
-            "🌐 Frontend Development",
-            "🔥 #100DaysOfLearning"
-        ]
-
     def hobbies(self):
-        return ["🧘 Meditation", "📚 Book Reading"]
+        return ["Meditation", "Book Reading"]
 
     def motto(self):
-        return "One commit at a time 🚀"
+        return "One commit at a time"
 
 me = KartikTiwari()
 ```
 
-🧠 **Learning** — ML, data preprocessing & visualization
-💻 **Building** — responsive, real-world frontends with HTML, CSS & JS
-🌍 **Engaged** — in local tech & AI/automation communities
-🌱 **Committed** — to shipping something new, every single day
-
 > *"Bridging data-driven technologies with interactive web experiences — one commit at a time."*
-
-<details>
-<summary>🎯 <b>Career Goals & What I'm Learning Right Now</b></summary>
-<br>
-
-- 🔭 learn and build M.L project and make the Bridge B/W M.L Models and Frontend Devlopment
-- 📈 Deepening my skills in **data preprocessing, model evaluation & visualization**
-- 🎓 Wrapping up my **BCA**, aiming for a role at the intersection of **frontend engineering and applied ML**
-- 🤝 Looking to collaborate on open-source **data/ML** or **frontend** projects
-
-</details>
 
 <br clear="right"/>
 
@@ -77,10 +64,6 @@ me = KartikTiwari()
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,html,css,js,cpp,git,github,vscode,mysql&theme=dark" />
-
-<br/><br/>
 
 **Data Science & Machine Learning**
 <br/>
@@ -96,6 +79,7 @@ me = KartikTiwari()
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Tools & Platforms**
@@ -107,6 +91,11 @@ me = KartikTiwari()
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
+
+<!--
+  NOTE: removed the skillicons.dev row since it duplicated languages
+  already covered by the shields.io badges above (item #1).
+-->
 
 ## 📊 GitHub Analytics
 
@@ -143,7 +132,9 @@ me = KartikTiwari()
 
 ### 🫀 [CardioCore-Backend](https://github.com/kartiktiwaridev7/CardioCore-Backend)
 
-The FastAPI backend and Machine Learning API for CardioCore — handles real-time clinical heart disease predictions using a trained scikit-learn model and manages secure database connections via MySQL.
+<!-- TODO: add a screenshot/GIF of the API docs or a sample prediction request (item #5) -->
+
+FastAPI + ML backend for CardioCore. Serves real-time heart-disease risk predictions from a trained scikit-learn model <!-- TODO: swap in your real metric, e.g. "(XX% test accuracy)" — item #4 --> and manages secure connections via MySQL.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -158,7 +149,9 @@ The FastAPI backend and Machine Learning API for CardioCore — handles real-tim
 
 ### 🌐 [CardioCore-Frontend](https://github.com/kartiktiwaridev7/CardioCore-Frontend)
 
-The decoupled, responsive frontend for CardioCore — a dynamic clinical risk assessment UI with a secure appointment booking system built in Vanilla JavaScript.
+<!-- TODO: add a demo GIF of the risk-assessment UI in action (item #5) -->
+
+Responsive clinical risk-assessment UI for CardioCore, built in Vanilla JavaScript, with a secure appointment-booking flow that talks to the FastAPI backend.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -178,7 +171,7 @@ The decoupled, responsive frontend for CardioCore — a dynamic clinical risk as
 
 ### 💼 [My-Portfolio-2](https://github.com/kartiktiwaridev7/My-Portfolio-2)
 
-My personal developer portfolio featuring projects, technical skills, certifications, resume, and contact information — designed with a focus on clean UI and responsiveness.
+Personal developer portfolio with projects, skills, certifications, resume, and contact details — built for clean UI and full responsiveness.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -212,7 +205,9 @@ A collage project built with HTML, CSS and JavaScript — implemented as a stude
 
 ### 📊 [Data-Sight](https://github.com/kartiktiwaridev7/Data-Sight)
 
-Full-stack AI analytics engine — a highly responsive React/Vite frontend that streams datasets to a Python/FastAPI backend for real-time machine learning regression, dynamic data aggregation, and interactive visualization.
+<!-- TODO: finish this description in the actual repo — it's truncated on GitHub after "...and in..." (item #3) -->
+
+Full-stack AI analytics engine. A responsive React/Vite frontend that streams datasets to a Python/FastAPI backend for real-time ML regression, dynamic data aggregation, and interactive visualization.
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -227,7 +222,9 @@ Full-stack AI analytics engine — a highly responsive React/Vite frontend that 
 
 ### ⚙️ [Data-Sight-Backend](https://github.com/kartiktiwaridev7/Data-Sight-Backend)
 
-Python/FastAPI machine learning backend for the DataSight Analytics Dashboard — engineered to securely process large datasets, execute multi-variable regressions, and stream aggregated time-series insights.
+<!-- TODO: finish this description in the actual repo — it's truncated on GitHub after "...i..." (item #3) -->
+
+Python/FastAPI ML backend for the DataSight dashboard. Securely processes large datasets, runs multi-variable regressions, and streams aggregated time-series insights.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -244,6 +241,22 @@ Python/FastAPI machine learning backend for the DataSight Analytics Dashboard �
 
 </div>
 
+## 🎓 Currently Learning
+
+<!--
+  TODO (item #10): if you have a certification/streak you want to show,
+  swap the badge below for the real one — examples:
+  - freeCodeCamp: https://img.shields.io/badge/freeCodeCamp-Data%20Analysis-0a0a23?style=for-the-badge&logo=freecodecamp
+  - Coursera cert: link the certificate URL as a badge
+  - #100DaysOfCode streak tracker: https://github.com/<user>/100DaysOfCode-log
+-->
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Learning-Machine%20Learning-36BCF7?style=for-the-badge)
+![Data Viz](https://img.shields.io/badge/Learning-Data%20Visualization-6C5CE7?style=for-the-badge)
+
+</div>
+
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -253,6 +266,9 @@ I'm always up for a conversation about **ML, frontend engineering, or a good boo
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-tiwari-8b2bb5353/)
 [![Gmail](https://img.shields.io/badge/-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiktiwaridev7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-View%20My%20Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kartiktiwartiportfolio.netlify.app/)
+<!-- TODO (item #6): add your resume link here, e.g.
+[![Resume](https://img.shields.io/badge/-Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white)](https://your-resume-link.com)
+-->
 
 ⭐ **Star my repos if you find them useful — let's build something amazing together!**
 
