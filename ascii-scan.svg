@@ -1,1 +1,217 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="434" height="520" viewBox="0 0 434 520" role="img" aria-label="Kartik Tiwari ML to Frontend Architecture Dashboard">
+  <title>kartiktiwari@github:~$ ./pipeline --status=live</title>
+
+  <style>
+    .bg { fill: #0D1117; }
+    .chrome { fill: #161b22; }
+    .panel { fill: #121721; stroke: #21262d; stroke-width: 1; }
+    .node { fill: #161b22; stroke: #36BCF7; stroke-width: 1.2; stroke-opacity: 0.65; }
+    .node-purple { fill: #161b22; stroke: #6C5CE7; stroke-width: 1.2; stroke-opacity: 0.75; }
+    .node-hub { fill: #111927; stroke: #36BCF7; stroke-width: 1.8; filter: drop-shadow(0 0 6px rgba(54,188,247,0.25)); }
+    .frame { fill: none; stroke: #36BCF7; stroke-opacity: 0.45; stroke-width: 1.4; }
+    .divider { stroke: #30363d; stroke-width: 1; }
+
+    .font-mono { font-family: 'Fira Code', 'Courier New', ui-monospace, monospace; }
+    .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+
+    .title { font-size: 10.5px; fill: #8b949e; }
+    .sec-hdr { font-size: 10px; font-weight: 700; fill: #8b949e; letter-spacing: 0.8px; }
+    .node-title { font-size: 11px; font-weight: 700; fill: #ffffff; }
+    .node-sub { font-size: 9px; fill: #36BCF7; }
+    .node-sub-p { font-size: 9px; fill: #a29bfe; }
+
+    .pipe { stroke: #21262d; stroke-width: 2; fill: none; }
+    .pipe-glow {
+      stroke: #36BCF7;
+      stroke-width: 2;
+      fill: none;
+      stroke-dasharray: 6 6;
+      animation: dashFlow 1.5s linear infinite;
+    }
+    .pipe-glow-p {
+      stroke: #6C5CE7;
+      stroke-width: 2;
+      fill: none;
+      stroke-dasharray: 6 6;
+      animation: dashFlow 1.5s linear infinite;
+    }
+    @keyframes dashFlow {
+      to { stroke-dashoffset: -24; }
+    }
+
+    .pulse-dot {
+      fill: #27c93f;
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; r: 4px; }
+      50% { opacity: 0.4; r: 5.5px; }
+    }
+
+    .bar-bg { fill: #21262d; }
+    .bar-fill-1 { fill: url(#gradCyan); animation: loadBar1 4s ease-out infinite alternate; }
+    .bar-fill-2 { fill: url(#gradPurple); animation: loadBar2 4s ease-out infinite alternate; }
+    .bar-fill-3 { fill: url(#gradGreen); animation: loadBar3 4s ease-out infinite alternate; }
+
+    @keyframes loadBar1 { 0% { width: 310px; } 100% { width: 345px; } }
+    @keyframes loadBar2 { 0% { width: 295px; } 100% { width: 332px; } }
+    @keyframes loadBar3 { 0% { width: 330px; } 100% { width: 358px; } }
+
+    .log-line { font-size: 10px; fill: #c9d1d9; opacity: 0; animation: fadeLog 8s ease-in-out infinite; }
+    .l1 { animation-delay: 0.2s; }
+    .l2 { animation-delay: 1.0s; }
+    .l3 { animation-delay: 1.8s; }
+    .l4 { animation-delay: 2.6s; }
+    .l5 { animation-delay: 3.4s; }
+
+    @keyframes fadeLog {
+      0% { opacity: 0; transform: translateY(3px); }
+      8%, 88% { opacity: 1; transform: translateY(0); }
+      96%, 100% { opacity: 0; }
+    }
+
+    .cursor {
+      fill: #36BCF7;
+      animation: blink 1s steps(1) infinite;
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="gradCyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1c6fa8"/>
+      <stop offset="100%" stop-color="#36BCF7"/>
+    </linearGradient>
+    <linearGradient id="gradPurple" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4834d4"/>
+      <stop offset="100%" stop-color="#6C5CE7"/>
+    </linearGradient>
+    <linearGradient id="gradGreen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#009688"/>
+      <stop offset="100%" stop-color="#27c93f"/>
+    </linearGradient>
+    <radialGradient id="hubGlow" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#36BCF7" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Main Window Background -->
+  <rect class="bg" width="434" height="520" rx="10"/>
+
+  <!-- Top macOS Terminal Bar -->
+  <path class="chrome" d="M0,10 a10,10 0 0 1 10,-10 h414 a10,10 0 0 1 10,10 v22 h-434 z"/>
+  <line class="divider" x1="0" y1="32" x2="434" y2="32"/>
+  <circle cx="16" cy="16" r="4.5" fill="#ff5f56"/>
+  <circle cx="31" cy="16" r="4.5" fill="#ffbd2e"/>
+  <circle cx="46" cy="16" r="4.5" fill="#27c93f"/>
+  <text class="font-mono title" x="64" y="20">
+    <tspan fill="#36BCF7" font-weight="700">kartik@ml-engine</tspan>:~$ ./architecture --live
+  </text>
+
+  <!-- Live Status Pill -->
+  <rect x="358" y="8" width="62" height="16" rx="8" fill="#0d2117" stroke="#27c93f" stroke-opacity="0.5"/>
+  <circle class="pulse-dot" cx="369" cy="16" r="4"/>
+  <text class="font-mono" x="378" y="19.5" font-size="9" font-weight="700" fill="#27c93f">ONLINE</text>
+
+  <!-- ===================================================== -->
+  <!-- SECTION 1: ML TO FRONTEND ARCHITECTURE DIAGRAM        -->
+  <!-- ===================================================== -->
+  <text class="font-sans sec-hdr" x="20" y="54">⚡ FULL-STACK ML &amp; FRONTEND PIPELINE</text>
+  <rect class="panel" x="18" y="62" width="398" height="142" rx="8"/>
+  <circle cx="217" cy="133" r="85" fill="url(#hubGlow)"/>
+
+  <!-- Animated Connecting Pipelines -->
+  <path class="pipe" d="M 126 98 L 166 122"/>
+  <path class="pipe-glow" d="M 126 98 L 166 122"/>
+
+  <path class="pipe" d="M 126 168 L 166 144"/>
+  <path class="pipe-glow-p" d="M 126 168 L 166 144"/>
+
+  <path class="pipe" d="M 268 122 L 308 98"/>
+  <path class="pipe-glow" d="M 268 122 L 308 98"/>
+
+  <path class="pipe" d="M 268 144 L 308 168"/>
+  <path class="pipe-glow-p" d="M 268 144 L 308 168"/>
+
+  <!-- Left Node 1: Data Layer -->
+  <rect class="node" x="28" y="74" width="98" height="48" rx="6"/>
+  <text class="font-sans node-title" x="77" y="95" text-anchor="middle">Data Engine</text>
+  <text class="font-mono node-sub" x="77" y="110" text-anchor="middle">Pandas • NumPy</text>
+
+  <!-- Left Node 2: ML Layer -->
+  <rect class="node-purple" x="28" y="144" width="98" height="48" rx="6"/>
+  <text class="font-sans node-title" x="77" y="165" text-anchor="middle">ML Models</text>
+  <text class="font-mono node-sub-p" x="77" y="180" text-anchor="middle">Scikit-Learn</text>
+
+  <!-- Center Hub: FastAPI -->
+  <rect class="node-hub" x="166" y="97" width="102" height="72" rx="8"/>
+  <text class="font-sans node-title" x="217" y="122" text-anchor="middle">⚙️ FastAPI</text>
+  <text class="font-mono node-sub" x="217" y="138" text-anchor="middle">REST API Bridge</text>
+  <rect x="181" y="146" width="72" height="14" rx="4" fill="#0d2824"/>
+  <text class="font-mono" x="217" y="156" font-size="8.5" fill="#27c93f" text-anchor="middle">200 OK • 12ms</text>
+
+  <!-- Right Node 1: DataSight React -->
+  <rect class="node" x="308" y="74" width="98" height="48" rx="6"/>
+  <text class="font-sans node-title" x="357" y="95" text-anchor="middle">Data-Sight UI</text>
+  <text class="font-mono node-sub" x="357" y="110" text-anchor="middle">React • Vite</text>
+
+  <!-- Right Node 2: CardioCore UI -->
+  <rect class="node-purple" x="308" y="144" width="98" height="48" rx="6"/>
+  <text class="font-sans node-title" x="357" y="165" text-anchor="middle">CardioCore UI</text>
+  <text class="font-mono node-sub-p" x="357" y="180" text-anchor="middle">JS • HTML/CSS</text>
+
+  <!-- ===================================================== -->
+  <!-- SECTION 2: ACTIVE PROJECT TELEMETRY                   -->
+  <!-- ===================================================== -->
+  <text class="font-sans sec-hdr" x="20" y="226">📊 ENGINEERING FOCUS &amp; SYSTEM TELEMETRY</text>
+  <rect class="panel" x="18" y="234" width="398" height="128" rx="8"/>
+
+  <!-- Metric 1 -->
+  <text class="font-sans" x="30" y="255" font-size="10.5" font-weight="600" fill="#e6edf3">Frontend Architecture (React, Vite, JS, CSS3)</text>
+  <text class="font-mono" x="404" y="255" font-size="10" fill="#36BCF7" text-anchor="end">95%</text>
+  <rect class="bar-bg" x="30" y="262" width="374" height="7" rx="3.5"/>
+  <rect class="bar-fill-3" x="30" y="262" width="355" height="7" rx="3.5"/>
+
+  <!-- Metric 2 -->
+  <text class="font-sans" x="30" y="293" font-size="10.5" font-weight="600" fill="#e6edf3">Applied ML &amp; EDA Pipelines (Python, Scikit-Learn)</text>
+  <text class="font-mono" x="404" y="293" font-size="10" fill="#a29bfe" text-anchor="end">90%</text>
+  <rect class="bar-bg" x="30" y="300" width="374" height="7" rx="3.5"/>
+  <rect class="bar-fill-2" x="30" y="300" width="328" height="7" rx="3.5"/>
+
+  <!-- Metric 3 -->
+  <text class="font-sans" x="30" y="331" font-size="10.5" font-weight="600" fill="#e6edf3">Backend APIs &amp; Databases (FastAPI, MySQL)</text>
+  <text class="font-mono" x="404" y="331" font-size="10" fill="#27c93f" text-anchor="end">88%</text>
+  <rect class="bar-bg" x="30" y="338" width="374" height="7" rx="3.5"/>
+  <rect class="bar-fill-1" x="30" y="338" width="320" height="7" rx="3.5"/>
+
+  <!-- ===================================================== -->
+  <!-- SECTION 3: LIVE STREAMING TERMINAL LOG                -->
+  <!-- ===================================================== -->
+  <text class="font-sans sec-hdr" x="20" y="384">🖥️ LIVE RUNTIME LOG</text>
+  <rect class="panel" x="18" y="392" width="398" height="110" rx="8" fill="#090d13"/>
+
+  <text class="font-mono log-line l1" x="30" y="413">
+    <tspan fill="#6e7681">[01]</tspan> <tspan fill="#36BCF7">Data-Sight</tspan>: Streaming CSV to FastAPI engine... <tspan fill="#27c93f">OK</tspan>
+  </text>
+  <text class="font-mono log-line l2" x="30" y="432">
+    <tspan fill="#6e7681">[02]</tspan> <tspan fill="#a29bfe">CardioCore</tspan>: Scikit-Learn risk model loaded.... <tspan fill="#27c93f">OK</tspan>
+  </text>
+  <text class="font-mono log-line l3" x="30" y="451">
+    <tspan fill="#6e7681">[03]</tspan> <tspan fill="#36BCF7">React/Vite</tspan>: Rendering interactive charts...... <tspan fill="#27c93f">60fps</tspan>
+  </text>
+  <text class="font-mono log-line l4" x="30" y="470">
+    <tspan fill="#6e7681">[04]</tspan> <tspan fill="#a29bfe">Education</tspan> : BCA Final Year @ Ghaziabad, IN.... <tspan fill="#36BCF7">ACTIVE</tspan>
+  </text>
+  <text class="font-mono log-line l5" x="30" y="489">
+    <tspan fill="#27c93f">➜</tspan> <tspan fill="#ffffff" font-weight="700">Status: Open to Frontend &amp; ML Internships</tspan>
+  </text>
+  <rect class="cursor" x="312" y="480" width="6" height="11"/>
+
+  <!-- Outer Neon Border -->
+  <rect class="frame" x="1" y="1" width="432" height="518" rx="10"/>
+</svg>
 
