@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- ANIMATED WAVING BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:36BCF7,70:6C5CE7,100:0D1117&height=220&section=header&text=Hey,%20I'm%20Kartik%20Tiwari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20ML%20Learner%20%7C%20Data%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:36BCF7,70:6C5CE7,100:0D1117&height=220&section=header&text=Hey,%20I'm%20Kartik%20Tiwari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20ML%20Learner%20%7C%20Data%20Explorer&descAlignY=58&descSize=18&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:36BCF7,70:6C5CE7,100:0D1117&height=220&section=header&text=Hey,%20I'm%20Kartik%20Tiwari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20ML%20Learner%20%7C%20Data%20Explorer&descAlignY=58&descSize=18&animation=fadeIn)" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Clean%2C+Responsive+UIs+%F0%9F%92%BB;Currently+Exploring+Machine+Learning+%F0%9F%A4%96;Open+to+Collab+%26+Internships+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Clean%2C+Responsive+UIs+%F0%9F%92%BB;Currently+Exploring+Machine+Learning+%F0%9F%A4%96;Open+to+Collab+%26+Internships+%F0%9F%8C%B1](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Clean%2C+Responsive+UIs+%F0%9F%92%BB;Currently+Exploring+Machine+Learning+%F0%9F%A4%96;Open+to+Collab+%26+Internships+%F0%9F%8C%B1)" alt="Typing SVG" />
 
 <br/>
 
 <!-- ROTATING QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)" alt="dev quote" />
 
-<br/>
+<br/><br/>
 
 <!-- QUICK LINKS & PROFILE VIEWS -->
 [![Portfolio](https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kartiktiwartiportfolio.netlify.app/)
@@ -21,18 +21,18 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:36BCF7,100:0D1117&height=3&width=100%" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:36BCF7,100:0D1117&height=3&width=100](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:36BCF7,100:0D1117&height=3&width=100)%" width="100%"/>
 
 ## 👋 About Me
 
-<img align="right" width="420" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/ascii-scan.svg">
+<img align="right" width="370" src="[https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/ascii-scan.svg](https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/ascii-scan.svg)">
 
 **Currently building:** [Data-Sight](https://github.com/kartiktiwaridev7/Data-Sight) — a full-stack AI analytics engine
 <br/>
-**Currently learning:** Model evaluation, data preprocessing pipelines & advanced visualization
+**Core architecture:** React & Vanilla JS frontends powered by FastAPI & Scikit-Learn backends
 
 - 🔭 Building the bridge between **ML models** and **frontend engineering**
-- 📈 Deepening skills in **data preprocessing, model evaluation & visualization**
+- 📈 Deepening skills in **data preprocessing, model evaluation & interactive visualization**
 - 🎓 Wrapping up my **BCA**, aiming for a role at the intersection of frontend engineering and applied ML
 - 🤝 Open to collaborating on open-source **data/ML** or **frontend** projects
 
@@ -43,7 +43,8 @@ class KartikTiwari:
         self.location  = "Ghaziabad, India 🇮🇳"
         self.education = "BCA Final Year"
         self.role      = "Frontend Dev + ML Learner"
-        self.stack     = ["Python", "FastAPI", "React", "JavaScript", "Scikit-Learn"]
+        self.frontend  = ["React", "JavaScript", "HTML5", "CSS3"]
+        self.backend   = ["Python", "FastAPI", "Scikit-Learn", "MySQL"]
 
     def hobbies(self):
         return ["Meditation 🧘", "Book Reading 📚"]
@@ -60,7 +61,7 @@ me = KartikTiwari()
 
 <div align="center">
 
-<img width="640" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/devcard.svg" alt="Kartik Tiwari animated developer ID card">
+<img width="640" src="[https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/devcard.svg](https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/devcard.svg)" alt="Kartik Tiwari animated developer ID card">
 
 </div>
 
@@ -77,7 +78,7 @@ me = KartikTiwari()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
-**Frontend & Web Development**
+**Frontend & Backend Web Development**
 <br/>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -88,11 +89,11 @@ me = KartikTiwari()
 
 **Languages, Databases & Tools**
 <br/>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
@@ -105,7 +106,7 @@ me = KartikTiwari()
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktiwaridev7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartiktiwaridev7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook" height="165"/>
 
 </div>
 
@@ -160,7 +161,7 @@ Responsive clinical risk-assessment UI for CardioCore, built in Vanilla JavaScri
 </td>
 </tr>
 <tr>
-<td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:36BCF7,100:0D1117&height=2&width=100%" width="100%"/></td>
+<td colspan="2"><img src="[https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:36BCF7,100:0D1117&height=2&width=100](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:36BCF7,100:0D1117&height=2&width=100)%" width="100%"/></td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
@@ -215,16 +216,17 @@ Full-stack AI analytics engine. A responsive React/Vite frontend that streams da
 </td>
 <td width="50%" valign="top" align="center">
 
-### ⚙️ [Data-Sight-Backend](https://github.com/kartiktiwaridev7/Data-Sight-Backend)
+### ⚙️ [Data-Sight-Backend](https://github.com/kartiktiwaridev7/Data-Sight)
 
 Python/FastAPI ML backend for the DataSight dashboard. Securely processes large datasets, runs multi-variable regressions, and streams aggregated time-series insights.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-![Stars](https://img.shields.io/github/stars/kartiktiwaridev7/Data-Sight-Backend?style=flat-square&color=36BCF7&label=%E2%AD%90)
+![Status](https://img.shields.io/badge/API-FastAPI%20Engine-36BCF7?style=flat-square)
 
-**[View Repository →](https://github.com/kartiktiwaridev7/Data-Sight-Backend)**
+**[View Repository →](https://github.com/kartiktiwaridev7/Data-Sight)**
 
 </td>
 </tr>
@@ -234,12 +236,14 @@ Python/FastAPI ML backend for the DataSight dashboard. Securely processes large 
 
 </div>
 
-## 🎓 Currently Learning
+## 🎓 Currently Exploring
 
 <div align="center">
 
-![Machine Learning](https://img.shields.io/badge/Learning-Machine%20Learning-36BCF7?style=for-the-badge)
-![Data Viz](https://img.shields.io/badge/Learning-Data%20Visualization-6C5CE7?style=for-the-badge)
+![Applied ML](https://img.shields.io/badge/Exploring-Applied%20Machine%20Learning-36BCF7?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Data Viz](https://img.shields.io/badge/Exploring-Data%20Visualization-6C5CE7?style=for-the-badge&logo=plotly&logoColor=white)
+![FastAPI](https://img.shields.io/badge/Building-FastAPI%20Backends-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React UI](https://img.shields.io/badge/Crafting-React%20Dashboards-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
@@ -249,12 +253,12 @@ Python/FastAPI ML backend for the DataSight dashboard. Securely processes large 
 
 I'm always up for a conversation about **ML, frontend engineering, or a good book** 📚 — feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-tiwari-8b2bb5353/)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/kartik-tiwari-8b2bb5353/](https://www.linkedin.com/in/kartik-tiwari-8b2bb5353/))
 [![Gmail](https://img.shields.io/badge/-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiktiwaridev7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-View%20My%20Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kartiktiwartiportfolio.netlify.app/)
 
 ⭐ **Star my repos if you find them useful — let's build something amazing together!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:36BCF7,70:6C5CE7,100:0D1117&height=120&section=footer" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:36BCF7,70:6C5CE7,100:0D1117&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:36BCF7,70:6C5CE7,100:0D1117&height=120&section=footer)" width="100%"/>
 
 </div>
