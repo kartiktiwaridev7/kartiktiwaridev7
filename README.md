@@ -1,20 +1,18 @@
 <div align="center">
 
 <!-- ANIMATED WAVING BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:36BCF7,70:6C5CE7,100:0D1117&height=220&section=header&text=Hey,%20I'm%20Kartik%20Tiwari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20ML%20Learner%20%7C%20Data%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:36BCF7,70:6C5CE7,100:0D1117&height=220&section=header&text=Hey,%20I'm%20Kartik%20Tiwari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Applied%20ML%20%7C%20Data%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Clean%2C+Responsive+UIs+%F0%9F%92%BB;Currently+Exploring+Machine+Learning+%F0%9F%A4%96;Open+to+Collab+%26+Internships+%F0%9F%8C%B1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=650&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Turning+Data+into+Decisions+%F0%9F%93%8A;Building+Clean%2C+Responsive+Web+UIs+%F0%9F%92%BB;Bridging+Machine+Learning+%26+Frontend+%F0%9F%A4%96;Open+to+Internships+%26+Collaborations+%F0%9F%8C%B1" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
-<!-- ROTATING QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-
-<br/>
-
-<!-- PROFILE VIEWS -->
-[![Profile Views](https://komarev.com/ghpvc/?username=kartiktiwaridev7&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kartiktiwaridev7)
+<!-- QUICK CONNECT & PORTFOLIO LINKS (ABOVE THE FOLD) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kartiktiwartiportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartik-tiwari-8b2bb5353/)
+[![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartiktiwaridev7@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=kartiktiwaridev7&color=6C5CE7&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/kartiktiwaridev7)
 
 </div>
 
@@ -22,34 +20,29 @@
 
 ## 👋 About Me
 
-<img align="right" width="420" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/ascii-scan.svg">
+<img align="right" width="380" src="https://raw.githubusercontent.com/kartiktiwaridev7/kartiktiwaridev7/main/ascii-scan.svg" alt="ASCII Scan Animation">
 
-**Currently building:** [Data-Sight](https://github.com/kartiktiwaridev7/Data-Sight) — a full-stack AI analytics engine
-<br/>
-**Currently learning:** Model evaluation, data preprocessing pipelines & advanced visualization
-
-<!-- Career goals moved up, expanded (was collapsed below the code block) -->
-- 🔭 Building the bridge between **ML models** and **frontend engineering**
-- 📈 Deepening skills in **data preprocessing, model evaluation & visualization**
-- 🎓 Wrapping up my **BCA**, aiming for a role at the intersection of frontend engineering and applied ML
-- 🤝 Open to collaborating on open-source **data/ML** or **frontend** projects
+- 🔭 **Currently building:** [Data-Sight](https://github.com/kartiktiwaridev7/Data-Sight) — a full-stack AI analytics & regression engine
+- 🧠 **Currently learning:** Model evaluation, feature engineering pipelines & interactive data visualization
+- 🎯 **Focus:** Bridging the gap between **ML backends (Python/FastAPI)** and **responsive frontend UIs (React/JS)**
+- 🎓 **Education:** Final-year **BCA** student based in Ghaziabad, India 🇮🇳
+- 🤝 **Availability:** Open to **Frontend / Full-Stack / ML Internships** and open-source collaborations
 
 ```python
 class KartikTiwari:
     def __init__(self):
         self.name      = "Kartik Tiwari"
-        self.location  = "Ghaziabad, India 🇮🇳"
-        self.education = "BCA Final Year"
-        self.role      = "Frontend Dev + ML Learner"
+        self.role      = "Frontend Developer & ML Enthusiast"
+        self.stack     = ["Python", "FastAPI", "React", "JavaScript", "Scikit-Learn"]
+        self.interests = ["Applied AI", "UI Engineering", "Data Visualization"]
 
-    def hobbies(self):
-        return ["Meditation", "Book Reading"]
+    def hobbies(self) -> list[str]:
+        return ["Meditation 🧘", "Book Reading 📚"]
 
-    def motto(self):
-        return "One commit at a time"
+    def motto(self) -> str:
+        return "Bridging data-driven intelligence with interactive web experiences — one commit at a time."
 
 me = KartikTiwari()
-```
 
 > *"Bridging data-driven technologies with interactive web experiences — one commit at a time."*
 
